@@ -1,9 +1,4 @@
-//Some time ago, Chef bought X stocks at the cost of Rs. Y each.
-//Today, Chef is going to sell all these X stocks at Rs. Z each.
-//What is Chef's total profit after he sells them?
-//
-//Chef's profit equals the total amount he received by selling the stocks,
-//minus the total amount he spent buying them.
+//https://www.codechef.com/problems/CHFPROFIT
 
 import java.util.Scanner;
 
