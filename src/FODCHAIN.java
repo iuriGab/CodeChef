@@ -11,10 +11,12 @@ public class FODCHAIN {
             int firstLevel = sc.nextInt();
             int kFactor = sc.nextInt();
             int result = 1;
-            while (firstLevel/kFactor > 0){
+
+            do {
                 firstLevel/=kFactor;
                 result++;
-            }
+            } while (firstLevel > 0);
+
             System.out.println(result);
         }
     }
