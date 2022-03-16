@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class FODCHAIN {
 
     public static void main(String[] args) {
+        long start = System.currentTimeMillis();
         Scanner sc = new Scanner(System.in);
 
         for (int rounds = sc.nextInt(); rounds > 0; rounds--) {
@@ -19,5 +20,7 @@ public class FODCHAIN {
 
             System.out.println(result);
         }
+        long end = System.currentTimeMillis();
+        System.out.println(end-start);
     }
 }
