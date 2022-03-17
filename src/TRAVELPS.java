@@ -1,7 +1,5 @@
 //https://www.codechef.com/problems/TRAVELPS
 
-import java.util.Arrays;
-import java.util.Objects;
 import java.util.Scanner;
 
 public class TRAVELPS {
