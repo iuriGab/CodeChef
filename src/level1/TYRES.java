@@ -1,5 +1,6 @@
-package level1;//https://www.codechef.com/problems/TYRES
+//https://www.codechef.com/problems/TYRES
 
+package level1;
 import java.util.Scanner;
 
 public class TYRES {

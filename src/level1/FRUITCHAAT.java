@@ -1,5 +1,6 @@
 //https://www.codechef.com/problems/FRUITCHAAT
 
+package level1;
 import java.util.Scanner;
 
 public class FRUITCHAAT {

@@ -1,5 +1,6 @@
 //https://www.codechef.com/problems/ICL1902
 
+package level2;
 import java.util.Scanner;
 
 public class ICL1902 {

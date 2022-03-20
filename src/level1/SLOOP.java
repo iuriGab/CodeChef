@@ -1,5 +1,6 @@
-package level1;//https://www.codechef.com/problems/SLOOP
+//https://www.codechef.com/problems/SLOOP
 
+package level1;
 import java.util.Scanner;
 
 public class SLOOP {

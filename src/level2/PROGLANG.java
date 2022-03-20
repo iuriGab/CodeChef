@@ -1,8 +1,8 @@
-//https://www.codechef.com/problems/PROGLANG
+package level2;//https://www.codechef.com/problems/PROGLANG
 
 //import java.util.Scanner;
 //
-//public class PROGLANG {
+//public class level2.PROGLANG {
 //
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);

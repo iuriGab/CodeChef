@@ -1,5 +1,6 @@
 //https://www.codechef.com/problems/COVID_19
 
+package level2;
 import java.util.Scanner;
 
 public class COVID19 {

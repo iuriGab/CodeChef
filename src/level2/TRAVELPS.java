@@ -1,5 +1,6 @@
 //https://www.codechef.com/problems/TRAVELPS
 
+package level2;
 import java.util.Scanner;
 
 public class TRAVELPS {

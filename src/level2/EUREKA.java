@@ -1,5 +1,6 @@
 //https://www.codechef.com/problems/EUREKA
 
+package level2;
 import java.util.Scanner;
 
 public class EUREKA {

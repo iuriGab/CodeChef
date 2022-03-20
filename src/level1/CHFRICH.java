@@ -1,5 +1,6 @@
-package level1;//https://www.codechef.com/problems/CHFRICH
+//https://www.codechef.com/problems/CHFRICH
 
+package level1;
 import java.util.Scanner;
 
 public class CHFRICH {

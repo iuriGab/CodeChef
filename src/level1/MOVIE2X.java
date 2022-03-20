@@ -1,5 +1,6 @@
 //https://www.codechef.com/problems/MOVIE2X
 
+package level1;
 import java.util.Scanner;
 
 public class MOVIE2X {

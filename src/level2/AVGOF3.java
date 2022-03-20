@@ -1,5 +1,6 @@
 //https://www.codechef.com/problems/AVGOF3
 
+package level2;
 import java.util.Scanner;
 
 public class AVGOF3 {
