@@ -1,4 +1,4 @@
-//https://www.codechef.com/problems/CHEFBARBER
+package level1;//https://www.codechef.com/problems/CHEFBARBER
 
 import java.util.Scanner;
 

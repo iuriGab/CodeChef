@@ -1,4 +1,4 @@
-//https://www.codechef.com/problems/CHFPROFIT
+package level1;//https://www.codechef.com/problems/CHFPROFIT
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-//https://www.codechef.com/problems/BLITZ3_2
+package level1;//https://www.codechef.com/problems/BLITZ3_2
 
 import java.util.Scanner;
 

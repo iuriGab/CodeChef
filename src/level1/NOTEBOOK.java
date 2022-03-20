@@ -1,5 +1,6 @@
 //https://www.codechef.com/problems/NOTEBOOK
 
+package level1;
 import java.util.Scanner;
 
 public class NOTEBOOK {

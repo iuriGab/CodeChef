@@ -1,4 +1,4 @@
-//https://www.codechef.com/problems/COCONUT
+package level1;//https://www.codechef.com/problems/COCONUT
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-//https://www.codechef.com/problems/CHFRICH
+package level1;//https://www.codechef.com/problems/CHFRICH
 
 import java.util.Scanner;
 
