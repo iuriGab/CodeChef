@@ -1,5 +1,6 @@
-package beecrowd;
+//https://www.beecrowd.com.br/judge/pt/runs/code/26868762
 
+package beecrowd;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
