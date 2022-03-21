@@ -1,0 +1,11 @@
+//https://www.beecrowd.com.br/judge/pt/runs/code/26866556
+
+package beecrowd;
+
+public class HelloWorld {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello World!");
+    }
+}
